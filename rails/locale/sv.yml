@@ -134,7 +134,7 @@ sv:
   number:
     currency:
       format:
-        delimiter:
+        delimiter: ' ' 
         format: ! '%n %u'
         precision: 2
         separator: ! ','
